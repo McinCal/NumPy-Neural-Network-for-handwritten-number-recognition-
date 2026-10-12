@@ -5,12 +5,19 @@ a two layered neural network written in python and NumPy (no ML libraries) from 
 for each of the following tests, I plotted graphs of training loss, test loss, training accuracy and test accuracy against epochs: 
 
 ![Figure 1: 600 drawings, centring on](Training_curve_results/600_drawings/training_curves_16hidden_centered(600datasize).png)
+
 Figure 1 shows a dataset size of 600 drawings, with centring enabled.
+
 ![Figure 2: 600 drawings, centring off](Training_curve_results/600_drawings/training_curves_16hidden_nocentering(600datasize).png)
+
 Figure 2 shows a dataset size of 600 drawings, with centring disabled.
+
 ![Figure 3: 2000 drawings, centring on](Training_curve_results/2000_drawings/curves_2000_72_1.png)
+
 Figure 3 shows a dataset size of 2000 drawings, with centring enabled.
+
 ![Figure 4: 2000 drawings, centring off](Training_curve_results/2000_drawings/curves_2000_72_UnCentered.png)
+
 Figure 4 shows a dataset size of 2000 drawings, with centring disabled.
 
 ## How to run
