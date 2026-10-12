@@ -8,7 +8,7 @@ for each of the following tests, I plotted graphs of training loss, test loss, t
 
 ![Figure 2: 600 drawings, centring off](Training_curve_results/600_drawings/training_curves_16hidden_nocentering(600datasize).png)
 
-![Figure 3: 2000 drawings, centring on](Training_curve_results/2000_drawings/training_curves_16hidden_centered(600datasize).png)
+![Figure 3: 2000 drawings, centring on](Training_curve_results/2000_drawings/curves_2000_72_1.png)
 
 ![Figure 4: 2000 drawings, centring off](Training_curve_results/2000_drawings/curves_2000_72_uncentered.png)
 
