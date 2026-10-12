@@ -10,7 +10,7 @@ for each of the following tests, I plotted graphs of training loss, test loss, t
 
 ![Figure 3: 2000 drawings, centring on](Training_curve_results/2000_drawings/curves_2000_72_1.png)
 
-![Figure 4: 2000 drawings, centring off](Training_curve_results/2000_drawings/curves_2000_72_uncentered.png)
+![Figure 4: 2000 drawings, centring off](Training_curve_results/2000_drawings/curves_2000_72_UnCentered.png)
 
 ## How to run
 To run this yourself, make sure you have NumPy and MatPlotLib installed on your device. Use ‘collect.py’ if you wish do add your own digits to the dataset (it does take a while!), ‘train.py’ will train the network on the new dataset and produce graphs based on the results.
